@@ -31,7 +31,7 @@ npm start
 
 ### How does it work?
 
-`Once the app server is running, it will check whether there is 'assets' key in the local storage. If there is not, it will first fetch a pre-defined data from my file - assets.ts and set it as a starting data source in teh local storage. Subsequently, the fetching of data will then be from the local storage unless the key is deleted.`
+`Once the app server is running, it will check whether there is 'assets' key in the local storage. If there is not, it will first fetch a pre-defined data from my file - assets.ts and set it as a starting data source in the local storage. Subsequently, the fetching of data will then be from the local storage unless the key is deleted.`
 
 # Main Functionality
 
